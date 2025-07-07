@@ -16,7 +16,9 @@
         <li><a href="../secondProj/proj.php">Second Project</a> - A calculator that performs basic arithmetic operations.</li>
     </ul>
     <h1>Some projects will be nonpages, like scripts or functions <br>that I will be working on of which will be here.</h1>
-
+    <ul>
+        <li><a href="portScannerP/portScannerPage.php">Port Sniffer</a> - A simple port sniffer that checks if a port is open.</li>
+    </ul>
 
 </body>
 </html>
